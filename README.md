@@ -7,4 +7,5 @@ Upload your image related with Fashion maybe cloth, watch, shoes and this WebApp
 
 ### Prerequisite
 1. `CNN`
-2. `Transferlearning`
+2. `Transferlearning` ==> technique to use pretrained models
+  1. `ResNET` model ==> trained on imageNET data
